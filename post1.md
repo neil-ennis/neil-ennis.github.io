@@ -2,4 +2,4 @@
 
 I saw a spider today!
 
-![Spider](spider.jpg)
+![Spider](images/spider.jpg)
